@@ -16,7 +16,7 @@ Education Field Wise Attrition ,Attrition Rate By Gender By Diffrent Age Group
 
 5)Dashboard Design:
 Designed multiple dashboards:
-Then Finally Combine All Tableau Sheet and then make tableau dashboard
+Then Finally Combine All Tableau Sheet and then make HR dashboard
 
 Tools & Technologies:
 Tableau Public
