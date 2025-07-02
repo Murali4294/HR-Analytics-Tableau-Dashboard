@@ -1,7 +1,7 @@
 A)HR Analytics Tableau Dashboard – Project Highlights
 
 1)Project Overview:
-Developed an Tableau dashboard to analyze key HR metrics such as attrition, employee performance, Job Satisfaction.
+Developed a Tableau dashboard to analyze key HR metrics such as attrition, employee performance, Job Satisfaction.
 
 2)Data Source & Cleaning:
 Download datasets from Kaggle / company-provided HR data (CSV/Excel).
